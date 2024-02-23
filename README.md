@@ -1,8 +1,7 @@
 <h1>Hello! My name is Anton <a href="#"><a/><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1> 
 
 ### **Languages and Tools:**
-<img src="https://img.icons8.com/color/48/null/python--v1.png"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" width="50" height="50"/>
+<img src="https://img.icons8.com/color/48/null/python--v1.png"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" width="50" height="50"/>
 
 ### Github Stats ⚡
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zakladniy&theme=github_dark">
