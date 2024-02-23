@@ -2,7 +2,7 @@
 
 ### **Languages and Tools:**
 <img src="https://img.icons8.com/color/48/null/python--v1.png"/>
-<img src="https://img.icons8.com/icon/l75OEUJkPAk4/python.png"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" width="50" height="50"/>
 
 ### Github Stats ⚡
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zakladniy&theme=github_dark">
