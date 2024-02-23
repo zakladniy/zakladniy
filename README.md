@@ -7,7 +7,3 @@
  [![Top languages](https://github-readme-zakladniy.vercel.app/api/top-langs/?username=zakladniy&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 [![My current streak](https://github-readme-streak-stats-blush.vercel.app/?user=zakladniy&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
