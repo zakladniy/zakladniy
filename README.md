@@ -3,7 +3,7 @@ I'm a NLP Data Scientist with 3 years of experience building ML-systems
 
 - Open to project collaboration
 - Open for contacts
-- You can reach me through: <a href="mailto:zakladniy.anton@gmail.com">Email</a> | <a href="https://linkedin.com/in/anton-zakladniy">
+- You can reach me through: <a href="mailto:zakladniy.anton@gmail.com">Email</a> | <a LinkedIn href="https://linkedin.com/in/anton-zakladniy">
  <img  alt="LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="20" height="20" align="center" /></a>
 
 
